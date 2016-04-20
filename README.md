@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # podTestLib
 
 [![CI Status](http://img.shields.io/travis/netease/podTestLib.svg?style=flat)](https://travis-ci.org/netease/podTestLib)
@@ -27,3 +28,6 @@ netease, bjwangbaojun@corp.netease.com
 ## License
 
 podTestLib is available under the MIT license. See the LICENSE file for more info.
+=======
+# testProject
+>>>>>>> 016194642b79eaf4f3d9c6401b26e2f32b9aebe0
